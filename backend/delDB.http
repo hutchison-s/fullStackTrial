@@ -1,0 +1,7 @@
+DELETE http://localhost:5000/users/delete
+Accept: application/json
+Content-Type: application/json
+
+{
+    "id": "001"
+}

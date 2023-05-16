@@ -1,0 +1,8 @@
+POST http://localhost:5000/users/add
+Accept: application/json
+Content-Type: application/json
+
+{
+    "id": "001", 
+    "name": "George"
+}
